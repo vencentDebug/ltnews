@@ -1,4 +1,4 @@
-# NEWLabelContent
+# Chinese Long Text News Dataset (LTNews)
 这是一个公开数据集
 
 我们从网上50多个网站，包括人民网，新华网，新浪、中国新闻网等新闻网站收集新闻文本，收集到了约77万条数据，经过数据清洗，数据去重后，
