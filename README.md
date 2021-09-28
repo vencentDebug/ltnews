@@ -6,4 +6,4 @@
 按照类别顺序依次标号0～8.数据集中类别为数字而不为中文类别。[77万数据百度网盘下载](链接: https://pan.baidu.com/s/1afNDTOhmXnnINAp7lFSdtA)提取码: e5bp
 
 我们从中随机抽取数据集，每类新闻1万条，一共9万条数据，将其按照8:1:1划分为训练集、验证集、测试集，将其作为我们实验的数据集。
-相关数据集链接🔗[9万数据百度网盘下载](链接: https://pan.baidu.com/s/1YzT8MXhjda9cjk2SQ_2aKQ )提取码: k6as  
+相关数据集链接🔗[9万数据百度网盘下载](链接: https://pan.baidu.com/s/1BFUj3ZFdnztc-uaIevG75g 提取码: ears )
